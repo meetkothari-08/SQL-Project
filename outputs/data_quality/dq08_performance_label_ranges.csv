@@ -1,0 +1,5 @@
+performance_bucket_label,posts,min_engagement_rate,max_engagement_rate,min_engagement,max_engagement
+low,7500,0.0000,0.0852,0,2691
+medium,7499,0.0013,0.1328,3,5679
+high,7500,0.0024,0.1788,7,7641
+viral,7500,0.0029,0.2710,8,13029

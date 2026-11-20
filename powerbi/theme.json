@@ -1,0 +1,42 @@
+{
+  "name": "Instagram Engagement",
+  "dataColors": [
+    "#833AB4",
+    "#E1306C",
+    "#F77737",
+    "#FCAF45",
+    "#5B51D8",
+    "#405DE6",
+    "#8C8C8C",
+    "#C13584"
+  ],
+  "background": "#FFFFFF",
+  "foreground": "#262626",
+  "tableAccent": "#833AB4",
+  "good": "#2E9E6A",
+  "neutral": "#FCAF45",
+  "bad": "#E1306C",
+  "maximum": "#833AB4",
+  "center": "#F3E8FA",
+  "minimum": "#FFFFFF",
+  "textClasses": {
+    "title": { "fontFace": "Segoe UI Semibold", "fontSize": 13, "color": "#262626" },
+    "header": { "fontFace": "Segoe UI Semibold", "fontSize": 12, "color": "#262626" },
+    "label": { "fontFace": "Segoe UI", "fontSize": 10, "color": "#595959" },
+    "callout": { "fontFace": "Segoe UI Semibold", "fontSize": 26, "color": "#262626" }
+  },
+  "visualStyles": {
+    "*": {
+      "*": {
+        "background": [{ "show": true, "color": { "solid": { "color": "#FFFFFF" } } }],
+        "border": [{ "show": true, "color": { "solid": { "color": "#E6E6E6" } }, "radius": 8 }],
+        "dropShadow": [{ "show": false }]
+      }
+    },
+    "page": {
+      "*": {
+        "background": [{ "color": { "solid": { "color": "#F7F7F9" } }, "transparency": 0 }]
+      }
+    }
+  }
+}

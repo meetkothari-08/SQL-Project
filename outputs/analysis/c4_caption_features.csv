@@ -1,0 +1,10 @@
+feature,segment,posts,engagement_rate_pct
+Call to action,No,19536,4.2
+Call to action,Yes,10463,4.12
+Caption length,Long (140+),1262,4.07
+Caption length,Medium (100-139),27878,4.18
+Caption length,Short (<100),859,4.1
+Hashtags,0-3,1313,4.16
+Hashtags,13+,1935,4.15
+Hashtags,4-8,16536,4.15
+Hashtags,9-12,10215,4.21

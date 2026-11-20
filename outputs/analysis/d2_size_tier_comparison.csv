@@ -1,0 +1,4 @@
+size_tier,accounts,posts,avg_followers,avg_reach,reach_per_follower,engagement_rate_pct
+Small (<5K),5,7465,3930.0,6291.0,1.6,4.22
+Mid (5K-10K),7,10595,8063.0,6247.0,0.77,4.19
+Large (10K+),8,11939,16214.0,6283.0,0.39,4.12

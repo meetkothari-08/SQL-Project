@@ -1,0 +1,5 @@
+performance_tier,posts,avg_reach,avg_impressions,avg_engagement,engagement_rate_pct,save_rate_pct,share_rate_pct,comment_rate_pct,engagement_vs_low_tier
+Low,7500,6222.0,8548.0,147.0,1.72,0.207,0.069,0.041,1.0
+Medium,7499,6295.0,8607.0,286.0,3.32,0.398,0.136,0.081,1.95
+High,7500,6334.0,8647.0,432.0,4.99,0.6,0.204,0.12,2.94
+Viral,7500,6239.0,8066.0,548.0,6.79,0.821,0.279,0.164,3.73

@@ -1,0 +1,5 @@
+performance_tier,posts,avg_engagement,avg_followers_gained,pct_of_all_followers_gained
+Low,7500,147.0,505.0,25.2
+Medium,7499,286.0,503.0,25.0
+High,7500,432.0,497.0,24.8
+Viral,7500,548.0,503.0,25.0

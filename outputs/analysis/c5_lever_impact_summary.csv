@@ -1,0 +1,8 @@
+dimension,best_segment,best_er_pct,worst_segment,worst_er_pct,gap_pct_points,relative_gap_pct
+Performance tier,Viral,6.79,Low,1.72,5.07,294.0
+Traffic source,Profile,4.27,Home Feed,4.1,0.17,4.1
+Content category,Fitness,4.24,Travel,4.08,0.16,3.9
+Day of week,Tuesday,4.25,Wednesday,4.12,0.13,3.1
+Call to action,No,4.2,Yes,4.12,0.07,1.7
+Media type,image,4.2,carousel,4.12,0.07,1.8
+Daypart,Night (0-5),4.21,Evening (18-23),4.15,0.06,1.4
